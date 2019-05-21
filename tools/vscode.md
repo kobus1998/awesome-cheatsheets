@@ -14,17 +14,17 @@
 
 ### JavaScript, Node & NPM
 
-- `Import Cost`: This extension will display inline in the editor the size of the imported package.
+- [`Import Cost`](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost): This extension will display inline in the editor the size of the imported package.
 
-- `ESLint`: Integrates ESLint into VS Code
+- [`ESLint`](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint): Integrates ESLint into VS Code
 
-- `NPM`: NPM support for VS Code.
+- [`NPM`](https://marketplace.visualstudio.com/items?itemName=eg2.vscode-npm-script): NPM support for VS Code.
 
-- `NPM Intellisense`: Visual Studio Code plugin that autocompletes NPM modules in import statements.
+- [`NPM Intellisense`](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense): Visual Studio Code plugin that autocompletes NPM modules in import statements.
 
-- `Version Lens`: Shows the latest version for each package using code lens.
+- [`Version Lens`](https://marketplace.visualstudio.com/items?itemName=pflannery.vscode-versionlens): Shows the latest version for each package using code lens.
 
-- `Vetur`: Vue tooling for VS Code.
+- [`Vetur`](https://marketplace.visualstudio.com/items?itemName=octref.vetur): Vue tooling for VS Code.
 
 ### PHP
 
