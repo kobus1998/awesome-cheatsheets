@@ -1,51 +1,90 @@
 # Visual Studio CheatSheet
 
-
 ## Useful Extensions
 
 ### HTML & CSS
 
-* `CSScomb`: Codeing style formatter for CSS, Less, SCSS and Saas.
+- `CSScomb`: Codeing style formatter for CSS, Less, SCSS and Saas.
 
-* `Puglint`: Linter and style checker for pug.
+- `Puglint`: Linter and style checker for pug.
 
-* `SCSS IntelliSense`: Advanced autocompletion and refactoring support for SCSS.
+- `Sass`: Indented Sass syntax highlighting, autocomplete & snippets.
+
+- `SCSS IntelliSense`: Advanced autocompletion and refactoring support for SCSS.
 
 ### JavaScript, Node & NPM
 
-* `ESLint`: Integrates ESLint into VS Code
+- `Import Cost`: This extension will display inline in the editor the size of the imported package.
 
-* `NPM`: NPM support for VS Code.
+- `ESLint`: Integrates ESLint into VS Code
 
-* `NPM Intellisense`: Visual Studio Code plugin that autocompletes NPM modules in import statements.
+- `NPM`: NPM support for VS Code.
 
-* `Version Lens`: Shows the latest version for each package using code lens.
+- `NPM Intellisense`: Visual Studio Code plugin that autocompletes NPM modules in import statements.
 
+- `Version Lens`: Shows the latest version for each package using code lens.
 
-### SPA
+- `Vetur`: Vue tooling for VS Code.
 
-* `Vetur`: Vue tooling for VS Code.
+### PHP
 
+- `Better PHPUnit`: A better PHPUnit test runner.
 
-### Miscellaneous
+- `Laravel Artisan`: Laravel Artisan commands within Visual Studio Code.
 
-`Final-Newline`: Inserts a final newline when saving the document.
+- `PHP CS Fixer`: PHP CS Fixer extension for VS Code, php formatter, php code beautify tool.
 
-`Open in Github/Bitbucket...`: Jump to a source code line in Github / Bitbucket, Gitlab, VisualStudio.com
+- `PHP Doc Comment VSCode Plugin`: Add phpdoc @param and @return tag for selected function signatures.
 
-`OpenChrome`: Open file with Chrome.
+- `PHP IntelliSense`: Advanced Autocompletion and Refactoring support for PHP.
 
-`Output Colorizer`: Syntax Highlighting for log files.
+### Git
 
-`SVG Viewer`: SVG Viewer for Visual Studio Code.
+- `Git History`: View git log, file history, compare branches or commits.
 
-`Terminal`: Terminal for Visual Studio Code.
+- `Gitignore`: A extension for Visual Studio Code that assists you in working with .gitignore files.
 
+### Themes
 
-##############################################################################
-# USER SETTINGS
-##############################################################################
+- `Material Icon Theme`: Material Design Icons for Visual Studio Code.
 
+- `Palenight Theme`: An elegant and juicy material-like theme for Visual Studio Code.
+
+### Handy
+
+- `Debugger for Chrome`: Debug your JavaScript code in the Chrome browser.
+
+- `EditorConfig for VS Code`: EditorConfig Support for Visual Studio Code.
+
+- `File Utils`: A convenient way of creating, duplicating, moving, renaming and deleting files and directories.
+
+- `Final-Newline`: Inserts a final newline when saving the document.
+
+- `Formatting Toggle`: A VS Code extension that allows you to toggle the formatter (Prettier, Beautify, …) ON and OFF with a simple click.
+
+- `Open in Github/Bitbucket...`: Jump to a source code line in Github / Bitbucket, Gitlab, VisualStudio.com
+
+- `OpenChrome`: Open file with Chrome.
+
+- `Output Colorizer`: Syntax Highlighting for log files.
+
+- `Prettier - Code formatter`: VS Code plugin for prettier/prettier.
+
+- `Project Manager`: Easily switch between projects.
+
+- `REST Client`: REST Client for Visual Studio Code.
+
+- `SVG Viewer`: SVG Viewer for Visual Studio Code.
+
+- `Terminal`: Terminal for Visual Studio Code.
+
+- `Vue Peek`: Allows peek and goto definition for Vue single-file components.
+
+- `VS Live Share`: Real-time collaborative development from the comfort of your favorite tools.
+
+- `Wrap Console Log`: Wrap to console.log by word or selection.
+
+## My Settings
 
 ```javascript
 {
@@ -81,7 +120,7 @@
 
     // Controls auto save of dirty files
     "files.autoSave": "afterDelay",
-  
+
     // Controls the delay in ms after which a dirty file is saved automatically
     "files.autoSaveDelay": 1000,
 
@@ -136,7 +175,7 @@
 
     // Specifies the icon theme used in the workbench
     "workbench.iconTheme": "material-icon-theme",
-  
+
     // Controls font aliasing method in the workbench
     "workbench.fontAliasing": "antialiased",
     "explorer.confirmDragAndDrop": false
