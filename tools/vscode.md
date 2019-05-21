@@ -4,13 +4,13 @@
 
 ### HTML & CSS
 
-- `CSScomb`: Codeing style formatter for CSS, Less, SCSS and Saas.
+- [`CSScomb`](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-csscomb): Codeing style formatter for CSS, Less, SCSS and Saas.
 
-- `Puglint`: Linter and style checker for pug.
+- [`Puglint`](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-puglint): Linter and style checker for pug.
 
-- `Sass`: Indented Sass syntax highlighting, autocomplete & snippets.
+- [`Sass`](https://marketplace.visualstudio.com/items?itemName=robinbentley.sass-indented): Indented Sass syntax highlighting, autocomplete & snippets.
 
-- `SCSS IntelliSense`: Advanced autocompletion and refactoring support for SCSS.
+- [`SCSS IntelliSense`](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-scss): Advanced autocompletion and refactoring support for SCSS.
 
 ### JavaScript, Node & NPM
 
